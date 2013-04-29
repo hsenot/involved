@@ -1,0 +1,3 @@
+[submodule "pybossa"]
+	path = pybossa
+	url = git://github.com/hsenot/pybossa.git
